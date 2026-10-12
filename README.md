@@ -4,7 +4,7 @@ This project demonstrates runtime monitoring and containment of simulated AI wor
 
 The runtime monitor scores messages using signals such as suspicious message content, unusually high message frequency, propagation between agents, and requests for restricted tools. Depending on the score, it allows, monitors, restricts, or blocks a message. When a message is blocked, its sender is isolated from further communication.
 
-> This is an educational simulation. It does not detect or contain real malware or connect to real AI agents.
+> link to the repo: https://github.com/Deeps-444/AI_worm_detection
 
 ## Project files
 
